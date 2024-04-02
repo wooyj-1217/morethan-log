@@ -4,22 +4,22 @@ const CONFIG = {
     name: "wooyj-1217",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "안드로이드 개발자",
-    bio: "I develop everything using node.",
+    // bio: "",
     email: "glem1004@gmail.com",
     linkedin: "",
     github: "wooyj-1217",
     instagram: "",
   },
-  projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/wooyj-1217/morethan-log",
-    },
-  ],
+  // projects: [
+    // {
+      // name: `morethan-log`,
+      // href: "https://github.com/wooyj-1217/morethan-log",
+    // },
+  // ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "wooyj-log",
+    description: "title of wooyj-log",
   },
 
   // CONFIG configration (required)
